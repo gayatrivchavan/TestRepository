@@ -1,0 +1,7 @@
+H:\Learning\.Net Basics\BasicsApp\Read_QR_Code_Console\obj\Debug\Read_QR_Code_Console.csprojResolveAssemblyReference.cache
+H:\Learning\.Net Basics\BasicsApp\Read_QR_Code_Console\obj\Debug\Read_QR_Code_Console.csproj.CoreCompileInputs.cache
+H:\Learning\.Net Basics\BasicsApp\Read_QR_Code_Console\bin\Debug\Read_QR_Code_Console.exe.config
+H:\Learning\.Net Basics\BasicsApp\Read_QR_Code_Console\bin\Debug\Read_QR_Code_Console.exe
+H:\Learning\.Net Basics\BasicsApp\Read_QR_Code_Console\bin\Debug\Read_QR_Code_Console.pdb
+H:\Learning\.Net Basics\BasicsApp\Read_QR_Code_Console\obj\Debug\Read_QR_Code_Console.exe
+H:\Learning\.Net Basics\BasicsApp\Read_QR_Code_Console\obj\Debug\Read_QR_Code_Console.pdb
